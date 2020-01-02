@@ -2227,6 +2227,7 @@ input, select, textarea {
 			}
 
 		.image.avatar {
+			opacity: 0;
 			border-radius: 100%;
 		}
 
@@ -2235,6 +2236,7 @@ input, select, textarea {
 			}
 
 			.image.avatar img {
+				
 				border-radius: 100%;
 				width: 100%;
 			}
@@ -2725,8 +2727,13 @@ input, select, textarea {
 			font-size: 2em;
 			line-height: 3em;
 			margin: 0;
+			opacity: 0;
 
 			text-align: center;
+		}
+
+		#header blockquote {
+			opacity: 0;
 		}
 
 		#header .image.avatar {
