@@ -1,1 +1,0 @@
-# rickrm.github.io
